@@ -1,0 +1,8 @@
+package com.sreenu.TeluskoSpring;
+
+public class Car implements Vehicle{
+
+	public void drive() {
+		System.out.println("we can drive car");
+	}
+}
